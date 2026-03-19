@@ -2,7 +2,7 @@
 <img src="https://pbs.twimg.com/profile_banners/2033047034706661376/1773551890/1500x500" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">I'm shamaton (๑•̀ㅂ•́)و✧ a yurufuwa software engineer in Japan 🇯🇵</div>  
+### <div align="center">I'm shamaton 🍉 <br />a yurufuwa software engineer in Japan 🇯🇵</div>  
 
 #### <div align="center">Mostly using</div>
 <div align="center">  
