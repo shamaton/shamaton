@@ -18,9 +18,13 @@
 <!-- [![github](https://img.shields.io/github/followers/shamaton?label=Follow%20%40shamaton&style=social)](https://github.com/shamaton) -->
 <!-- ![shamaton's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamaton&show_icons=true&count_private=false) -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shamaton&layout=compact) -->
+
 <div align="center">
-</a>
 <a href="https://twitter.com/shamaton" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-</div>  
+<img alt="Static Badge" src="https://img.shields.io/badge/x-here-navy?style=for-the-badge">
+</div>
+
+<div align="center">
+<a href="https://cockpi.space" target="_blank">
+<img alt="Static Badge" src="https://img.shields.io/badge/cockpi-here-brightgreen?style=for-the-badge">
+</div>
